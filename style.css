@@ -1,0 +1,33 @@
+.buttons{
+    margin: 40px;
+}
+
+#button1{
+    border: 2px solid turquoise;
+    width: 100px;
+    border-radius: 15px;
+    color: turquoise;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 15px;
+}
+
+#button2{
+    border-radius: 50%;
+    background-color: mediumspringgreen;
+    color: white;
+    font-size: large;
+    border: 1px solid mediumspringgreen;
+    display: block;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#button3{
+    border: solid color black;
+    box-shadow: 5px 5px black;
+    background-color: cornflowerblue;
+    color: white;
+    display: block;
+    width: 125px;
+}
